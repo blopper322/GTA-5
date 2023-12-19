@@ -142,15 +142,15 @@ class Program
        
         Transport[] vehicles = new Transport[]
         {
-            new Car("Priora", "Lada"),
-            new Car("Camry", "Toyota"),
-            new Motorcycle("Ninja", "Sport"),
-            new Motorcycle("Harley", "Cruiser"),
-            new Helicopter("H145", "Airbus"),
-            new Airplane("Boeing 747", "Delta"),
-            new Moped("Vespa", "Classic"),
-            new Motorboat("Speedster", "Speedboat"),
-            new Tram("T-1000", "New York")
+           new Car("Priora", "Lada"),
+ new Car("Carolla", "Toyota"),
+ new Motorcycle("YZF-R6", "Yamaha"),
+ new Motorcycle("YZF-R1", "Yamaha"),
+ new Helicopter("kA-62", "Airbus"),
+ new Airplane("Embrear Legacy 500", "Embrear"),
+ new Moped("Motoland Delta 50", "Classic"),
+ new Motorboat("Wolf DC 510", "NORTHSILVE"),
+ new Tram("SB-17-51-0-WB", "Tehnopark")
         };
 
         
